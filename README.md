@@ -21,6 +21,7 @@ Wordle is a simple word-guessing game where the player has to guess a word of a 
    cd Wordle-Game
 
 3. **Run the Game:**
+   ```bash
    python run.py
 
 4. **Exit the Game:**
