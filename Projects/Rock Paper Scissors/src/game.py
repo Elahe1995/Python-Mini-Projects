@@ -1,7 +1,7 @@
 import random
 
 class RockPaperScissors:
-    def __init__(self, name):
+    def __init__(self, name: str):
         self.choices = ['rock', 'paper', 'scissors']
         self.player_name = name
 
