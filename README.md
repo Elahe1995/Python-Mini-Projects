@@ -9,3 +9,7 @@ Elaheh Bahmani
 - Number Gusser game
 - Wordle Game
 - Rock Paper Scissors Game
+- Password Generator
+- Streamlit dashboard
+- Telegram Bot
+- Happy Numbers
