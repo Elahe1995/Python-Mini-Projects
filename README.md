@@ -1,5 +1,5 @@
 # Title
-Python projects
+Python Projects
 
 # Author
 Elaheh Bahmani
