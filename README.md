@@ -13,3 +13,4 @@ Elaheh Bahmani
 - Streamlit dashboard
 - Telegram Bot
 - Happy Numbers
+- Web Scraping
