@@ -9,3 +9,5 @@ def multiply(a, b):
 
 def devision(a, b):
     return a / b
+
+print('Hello world')
