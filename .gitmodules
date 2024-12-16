@@ -1,0 +1,5 @@
+[submodule "path/to/submodule-directory"]
+	path = path/to/submodule-directory
+	url = https://github.com/Elahe1995/Wordle-Game.git
+[submodule "submodules/other-repo"]
+	path = submodules/other-repo
